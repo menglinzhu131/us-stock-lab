@@ -1,0 +1,8 @@
+{
+    "watchlist": ["AAPL", "NVDA", "TSLA", "MSFT", "MU", "QQQ"],
+    "settings": {
+        "history_days": 730,
+        "rsi_overbought": 80,
+        "rsi_oversold": 30
+    }
+}
