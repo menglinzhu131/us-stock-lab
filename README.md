@@ -1,4 +1,4 @@
-# US-Stock-Learning
+# us-stock-lab
 这是一个学习美股数据分析和量化交易的 Python 项目。
 ## 🚀项目目标
 * 获取美股历史/实时数据，如Alpaca
