@@ -63,4 +63,4 @@ def plot_stock_analysis(symbol):
     print(f"图表已保存至: {output_img}")
 
 if __name__ == "__main__":
-    plot_stock_analysis("MU")
+    plot_stock_analysis("MCD")

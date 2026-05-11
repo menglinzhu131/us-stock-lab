@@ -72,5 +72,5 @@ def run_backtest_v3(symbol):
         print(f"\n[统计] 交易次数: {len(trades)} | 胜率: {win_rate:.1%} | 平均收益: {avg_profit:.2%}")
 
 if __name__ == "__main__":
-    for s in ["NVDA", "MU", "AAPL"]:
+    for s in ["MCD"]:
         run_backtest_v3(s)

@@ -1,5 +1,5 @@
 {
-    "watchlist": ["AAPL", "NVDA", "TSLA", "MSFT", "MU", "QQQ"],
+    "watchlist": ["MCD"],
     "settings": {
         "history_days": 730,
         "rsi_overbought": 80,
