@@ -16,3 +16,5 @@
 - [ ] 接入 Alpaca API 获取实时行情
 - [ ] 实现个股筹码分布可视化
 - [ ] 编写简单的 RSI 超买超卖提醒脚本
+## 执行
+- python generate_interactive_chart.py 获取config配置的股票的股价和均线，生成交互式量化仪表盘

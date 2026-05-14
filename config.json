@@ -1,5 +1,5 @@
 {
-    "watchlist": ["MCD"],
+    "watchlist": ["MCD", "MSFT", "MU", "RKLB", "TSLA"],
     "settings": {
         "history_days": 730,
         "rsi_overbought": 80,
